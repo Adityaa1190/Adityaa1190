@@ -27,7 +27,6 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Adityaa1190&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityaa1190&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaa1190&layout=compact&theme=radical)
 
@@ -41,4 +40,3 @@
 ---
 
 ⚡ **Let's code and build something amazing!** 🚀
-
