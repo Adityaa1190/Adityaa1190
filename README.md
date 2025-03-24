@@ -1,6 +1,6 @@
-### Hi there! 👋 I'm Aditya
+### Hey there! 👋 I'm Aditya
 
-🚀 **Java Backend Developer | PCF Cloud Engineer | AWS Learner**  
+🚀 **Passionate Java Backend Developer | Cloud Engineer | AWS Enthusiast**  
 
 ---
 
@@ -39,4 +39,4 @@
 
 ---
 
-⚡ **Let's code and build something amazing!** 🚀
+⚡ **Let's code, innovate, and build something amazing!** 🚀
